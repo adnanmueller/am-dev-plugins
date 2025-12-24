@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a **Claude Code Plugin Marketplace** (`am-claude-plugins`) containing 4 specialized AI skills:
+This is a **Claude Code Plugin Marketplace** (`am-dev-plugins`) containing 4 specialized AI skills:
 
 1. **development-pipeline** — Full development workflow with 11 agents for solo founders
 2. **ai-text-humaniser** — Removes AI-sounding patterns from text
@@ -14,7 +14,7 @@ This is a **Claude Code Plugin Marketplace** (`am-claude-plugins`) containing 4 
 ## Marketplace Structure
 
 ```
-am-claude-plugins/
+am-dev-plugins/
 ├── .claude-plugin/
 │   └── marketplace.json           # Marketplace manifest (lists all plugins)
 ├── plugins/
@@ -136,11 +136,11 @@ Templates available in `plugins/website-copy-standards/assets/schema-templates/`
 
 ```bash
 # Add marketplace
-/plugin marketplace add adnanmueller/am-claude-plugins
+/plugin marketplace add adnanmueller/am-dev-plugins
 
 # Install plugins
-/plugin install development-pipeline@am-claude-plugins
-/plugin install ai-text-humaniser@am-claude-plugins
-/plugin install website-copy-standards@am-claude-plugins
-/plugin install feature-documenter@am-claude-plugins
+/plugin install development-pipeline@am-dev-plugins
+/plugin install ai-text-humaniser@am-dev-plugins
+/plugin install website-copy-standards@am-dev-plugins
+/plugin install feature-documenter@am-dev-plugins
 ```

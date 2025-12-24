@@ -1,12 +1,12 @@
 {
-  "name": "am-claude-plugins",
+  "name": "am-dev-plugins",
   "owner": {
     "name": "Adnan Mueller"
   },
   "metadata": {
     "description": "Collection of AI skills for Claude Code, featuring a comprehensive development pipeline for solo founders",
     "version": "1.0.0",
-    "repository": "https://github.com/adnanmueller/am-claude-plugins",
+    "repository": "https://github.com/adnanmueller/am-dev-plugins",
     "license": "MIT"
   },
   "plugins": [

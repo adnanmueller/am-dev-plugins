@@ -7,16 +7,16 @@ A collection of specialized AI skills and workflows for [Claude Code](https://cl
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add adnanmueller/am-claude-plugins
+/plugin marketplace add adnanmueller/am-dev-plugins
 ```
 
 Then install any plugin:
 
 ```
-/plugin install development-pipeline@am-claude-plugins
-/plugin install ai-text-humaniser@am-claude-plugins
-/plugin install website-copy-standards@am-claude-plugins
-/plugin install feature-documenter@am-claude-plugins
+/plugin install development-pipeline@am-dev-plugins
+/plugin install ai-text-humaniser@am-dev-plugins
+/plugin install website-copy-standards@am-dev-plugins
+/plugin install feature-documenter@am-dev-plugins
 ```
 
 ## Available Plugins
@@ -104,7 +104,7 @@ Phase 6  │ SECURITY AUDIT    │ Comprehensive security review
 
 ### Quick Start
 
-1. Install the plugin: `/plugin install development-pipeline@am-claude-plugins`
+1. Install the plugin: `/plugin install development-pipeline@am-dev-plugins`
 2. Say: "I want to build [your idea]"
 3. Claude runs the Bootstrap agent to set up your project
 4. Progress through phases with `next` or `phase [N]`
