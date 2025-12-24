@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{NAME}}",
+  "description": "{{DESCRIPTION}}",
+  "image": "{{IMAGE_URL}}",
+  "url": "{{URL}}",
+  "sku": "{{SKU}}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{BRAND_NAME}}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{{PRICE}}",
+    "priceCurrency": "{{CURRENCY}}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{URL}}"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{RATING_VALUE}}",
+    "reviewCount": "{{REVIEW_COUNT}}"
+  }
+}

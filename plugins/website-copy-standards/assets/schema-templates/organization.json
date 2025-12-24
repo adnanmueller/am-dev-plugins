@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{NAME}}",
+  "description": "{{DESCRIPTION}}",
+  "url": "{{URL}}",
+  "logo": "{{LOGO_URL}}",
+  "image": "{{IMAGE_URL}}",
+  "sameAs": [
+    "{{FACEBOOK_URL}}",
+    "{{TWITTER_URL}}",
+    "{{LINKEDIN_URL}}",
+    "{{INSTAGRAM_URL}}"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{TELEPHONE}}",
+    "contactType": "customer service",
+    "email": "{{EMAIL}}"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{STREET_ADDRESS}}",
+    "addressLocality": "{{CITY}}",
+    "addressRegion": "{{STATE}}",
+    "postalCode": "{{POSTCODE}}",
+    "addressCountry": "{{COUNTRY}}"
+  }
+}

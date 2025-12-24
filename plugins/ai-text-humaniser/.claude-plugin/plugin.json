@@ -1,0 +1,11 @@
+{
+  "name": "ai-text-humaniser",
+  "description": "Removes AI-sounding patterns from generated text",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "text", "humanize", "prose"],
+  "category": "writing"
+}

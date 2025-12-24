@@ -1,0 +1,25 @@
+{
+  "name": "development-pipeline",
+  "description": "Full development workflow with 11 specialized agents for solo founders",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["pipeline", "workflow", "agents", "solo-founder", "fastapi", "nextjs"],
+  "category": "workflow",
+  "commands": ["./SKILL.md"],
+  "agents": [
+    "./agents/00-bootstrap/SKILL.md",
+    "./agents/01-product-manager/SKILL.md",
+    "./agents/02a-ux-ui-lite/SKILL.md",
+    "./agents/02a-ux-ui-full/SKILL.md",
+    "./agents/02b-architect/SKILL.md",
+    "./agents/03a-backend/SKILL.md",
+    "./agents/03b-frontend/SKILL.md",
+    "./agents/03c-qa-specs/SKILL.md",
+    "./agents/04-qa-validation/SKILL.md",
+    "./agents/05-devops/SKILL.md",
+    "./agents/06-security/SKILL.md"
+  ]
+}

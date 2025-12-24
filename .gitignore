@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+._*
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/*.local.json
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temp
+tmp/
+*.tmp
+*.log
+
+# Build
+dist/
+build/
+node_modules/
+__pycache__/
+*.py[cod]
+venv/

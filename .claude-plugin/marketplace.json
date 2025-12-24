@@ -1,0 +1,46 @@
+{
+  "name": "am-claude-plugins",
+  "owner": {
+    "name": "Adnan Mueller"
+  },
+  "metadata": {
+    "description": "Collection of AI skills for Claude Code, featuring a comprehensive development pipeline for solo founders",
+    "version": "1.0.0",
+    "repository": "https://github.com/adnanmueller/am-claude-plugins",
+    "license": "MIT"
+  },
+  "plugins": [
+    {
+      "name": "development-pipeline",
+      "source": "./plugins/development-pipeline",
+      "description": "Full development workflow with 11 specialized agents for solo founders",
+      "version": "1.0.0",
+      "keywords": ["pipeline", "workflow", "agents", "solo-founder"],
+      "category": "workflow"
+    },
+    {
+      "name": "ai-text-humaniser",
+      "source": "./plugins/ai-text-humaniser",
+      "description": "Removes AI-sounding patterns from generated text",
+      "version": "1.0.0",
+      "keywords": ["writing", "text", "humanize"],
+      "category": "writing"
+    },
+    {
+      "name": "website-copy-standards",
+      "source": "./plugins/website-copy-standards",
+      "description": "SEO/GEO optimized website copywriting with structured data",
+      "version": "1.0.0",
+      "keywords": ["seo", "copywriting", "web"],
+      "category": "writing"
+    },
+    {
+      "name": "feature-documenter",
+      "source": "./plugins/feature-documenter",
+      "description": "Generates comprehensive feature documentation from code analysis",
+      "version": "1.0.0",
+      "keywords": ["documentation", "features", "code-analysis"],
+      "category": "documentation"
+    }
+  ]
+}

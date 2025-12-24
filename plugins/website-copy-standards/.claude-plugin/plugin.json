@@ -1,0 +1,11 @@
+{
+  "name": "website-copy-standards",
+  "description": "SEO/GEO optimized website copywriting with structured data",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["seo", "geo", "copywriting", "web", "structured-data"],
+  "category": "writing"
+}

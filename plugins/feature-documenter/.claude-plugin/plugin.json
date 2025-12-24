@@ -1,0 +1,11 @@
+{
+  "name": "feature-documenter",
+  "description": "Generates comprehensive feature documentation from code analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["documentation", "features", "code-analysis", "templates"],
+  "category": "documentation"
+}
