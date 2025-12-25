@@ -2,6 +2,8 @@
 name: website-copy-standards
 description: |
   Comprehensive skill for writing high-converting, AI-optimised website copy that combines Generative Engine Optimization (GEO) with strategic copywriting psychology. Use when: (1) Writing new website copy, landing pages, or marketing content, (2) Performing SEO audits or content reviews, (3) Optimising content for AI Answer Engines (Google AI, Perplexity, ChatGPT), (4) Implementing Schema markup (JSON-LD structured data), (5) Writing B2B or B2C-specific copy, (6) Creating About Us pages or brand storytelling content, (7) Writing microcopy, error messages, or UX text, (8) Ensuring accessibility and inclusive language.
+
+  Invoke with: /write-website-copy, /audit-seo, /generate-schema, /validate-content, or say "use the website-copy-standards skill to..."
 ---
 
 # Website Copy Standards

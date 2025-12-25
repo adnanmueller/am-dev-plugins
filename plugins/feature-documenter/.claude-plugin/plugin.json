@@ -6,5 +6,7 @@
     "name": "Adnan Mueller"
   },
   "license": "MIT",
-  "keywords": ["documentation", "features", "code-analysis", "templates"]
+  "keywords": ["documentation", "features", "code-analysis", "templates"],
+  "commands": "./commands/",
+  "skills": ["./SKILL.md"]
 }

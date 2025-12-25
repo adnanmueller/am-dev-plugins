@@ -2,7 +2,12 @@
 
 ---
 name: pipeline-coordinator
-description: Orchestrates the full development pipeline, tracks progress across phases, manages agent handoffs, and ensures documentation consistency. This is the primary entry point for the development workflow.
+description: |
+  Orchestrates the full development pipeline, tracks progress across phases, manages agent handoffs, and ensures documentation consistency. This is the primary entry point for the development workflow.
+
+  Invoke with: /start-pipeline, /show-pipeline-status, /advance-pipeline, or say "use the development-pipeline skill to..."
+
+  Phase commands: /pipeline-bootstrap, /pipeline-requirements, /pipeline-design-lite, /pipeline-design-full, /pipeline-architect, /pipeline-backend, /pipeline-frontend, /pipeline-qa-specs, /pipeline-qa-validate, /pipeline-devops, /pipeline-security
 version: 1.0.0
 ---
 

@@ -7,7 +7,8 @@
   },
   "license": "MIT",
   "keywords": ["pipeline", "workflow", "agents", "solo-founder", "fastapi", "nextjs"],
-  "commands": ["./SKILL.md"],
+  "commands": "./commands/",
+  "skills": ["./SKILL.md"],
   "agents": [
     "./agents/00-bootstrap/SKILL.md",
     "./agents/01-product-manager/SKILL.md",

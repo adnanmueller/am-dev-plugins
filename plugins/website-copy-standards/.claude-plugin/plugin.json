@@ -6,5 +6,7 @@
     "name": "Adnan Mueller"
   },
   "license": "MIT",
-  "keywords": ["seo", "geo", "copywriting", "web", "structured-data"]
+  "keywords": ["seo", "geo", "copywriting", "web", "structured-data"],
+  "commands": "./commands/",
+  "skills": ["./SKILL.md"]
 }

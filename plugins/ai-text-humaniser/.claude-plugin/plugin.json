@@ -6,5 +6,7 @@
     "name": "Adnan Mueller"
   },
   "license": "MIT",
-  "keywords": ["writing", "text", "humanize", "prose"]
+  "keywords": ["writing", "text", "humanize", "prose"],
+  "commands": "./commands/",
+  "skills": ["./SKILL.md"]
 }

@@ -1,6 +1,9 @@
 ---
 name: ai-text-humaniser
-description: "Removes common AI-generated text patterns that make writing obviously machine-produced. Use when: (1) Writing or editing any text content, (2) User requests human-sounding or natural writing, (3) User wants to avoid AI slop or AI tells, (4) Creating content that shouldn't read as AI-generated. Apply automatically when generating prose, articles, emails, or creative content."
+description: |
+  Removes common AI-generated text patterns that make writing obviously machine-produced. Use when: (1) Writing or editing any text content, (2) User requests human-sounding or natural writing, (3) User wants to avoid AI slop or AI tells, (4) Creating content that shouldn't read as AI-generated. Apply automatically when generating prose, articles, emails, or creative content.
+
+  Invoke with: /humanise-text, /humanize-text, /check-ai-patterns, or say "use the ai-text-humaniser skill to..."
 ---
 
 # AI Text Humaniser

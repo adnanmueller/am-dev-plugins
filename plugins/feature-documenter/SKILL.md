@@ -1,6 +1,9 @@
 ---
 name: feature-documenter
-description: Create clear feature documentation for non-professional developers. Use PROACTIVELY when documenting new features, significant code changes, creating technical specifications, or when a feature isn't covered in the original project spec. Triggers on requests like "document this feature", "create feature docs", "write technical specification", "document these changes", or any request to explain what code does for future reference.
+description: |
+  Create clear feature documentation for non-professional developers. Use PROACTIVELY when documenting new features, significant code changes, creating technical specifications, or when a feature isn't covered in the original project spec. Triggers on requests like "document this feature", "create feature docs", "write technical specification", "document these changes", or any request to explain what code does for future reference.
+
+  Invoke with: /document-feature, /document-feature-simple, /document-feature-full, or say "use the feature-documenter skill to..."
 ---
 
 # Feature Documenter
