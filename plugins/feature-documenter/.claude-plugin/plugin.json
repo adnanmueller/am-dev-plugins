@@ -1,6 +1,6 @@
 {
   "name": "feature-documenter",
-  "description": "Generates comprehensive feature documentation from code analysis",
+  "description": "Create feature documentation that helps future developers understand code. Use when documenting new features, significant code changes, or when a feature needs explaining for future reference.",
   "version": "1.0.0",
   "author": {
     "name": "Adnan Mueller"

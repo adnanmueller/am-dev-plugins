@@ -10,6 +10,87 @@ description: |
 
 Write website copy that converts humans AND gets cited by AI.
 
+## Design Philosophy
+
+### The Dual Audience Reality
+
+Every piece of web copy has two readers: humans and machines. Write only for humans, and AI Answer Engines will never cite you. Write only for machines, and humans will bounce. The art is writing content that serves both simultaneously.
+
+### The Citation Economy
+
+SEO was about ranking. GEO is about citation. When Perplexity or ChatGPT answers a user's question, they cite sources. Your content either contributes facts to that answer or it doesn't exist. There is no "page 2" in AI responses.
+
+### Answer First, Story Second
+
+Traditional copywriting builds toward a conclusion. GEO copywriting leads with the conclusion. The first 50 words after a question heading ARE the answer. Everything else is supporting detail for humans who want to go deeper.
+
+### Entity Thinking
+
+Keywords are dead. Entities are alive. An entity is a thing in the world with attributes and relationships. "Nike Air Max 2025" is an entity. "Best running shoes" is a keyword. AI understands entities; it matches keywords. Write about things, not phrases.
+
+### Ethical Persuasion
+
+This skill could teach manipulation. It doesn't. Dark patterns work short-term and destroy trust long-term. Empowerment marketing builds loyalty. Pain-point agitation is replaced by potential-highlighting.
+
+---
+
+## Anti-Patterns: Copy That Fails
+
+### The Keyword Stuffer
+**Symptom:** "Our best running shoes are the best running shoes for runners who want the best."
+**Problem:** AI detects keyword spam. Humans detect desperation.
+**Solution:** Say it once, clearly. Use entity attributes instead of repeating the keyword.
+
+### The Wall of Text
+**Symptom:** Dense paragraphs without headers, bullets, or visual breaks.
+**Problem:** 73% of users skim. Walls of text trigger immediate bounce.
+**Solution:** Short paragraphs (3-4 sentences max), bullets for lists, bold key phrases.
+
+### The "Click Here" Linker
+**Symptom:** "To learn more, click here."
+**Problem:** Screen readers announce links without context. "Click here" is meaningless.
+**Solution:** "Read our guide to Schema Markup" — descriptive link text.
+
+### The Feature Fetishist
+**Symptom:** "64GB storage, 120Hz display, A17 Bionic chip..."
+**Problem:** Features don't sell. Benefits do. Nobody buys a 120Hz display; they buy smooth scrolling.
+**Solution:** Lead with benefit, support with feature: "Buttery-smooth scrolling (120Hz display)."
+
+### The Dark Pattern User
+**Symptom:** "No thanks, I don't care about saving money" (confirmshaming)
+**Problem:** Short-term conversions, long-term reputation damage, potential legal issues.
+**Solution:** Neutral opt-out language: "No thanks" or "Maybe later."
+
+---
+
+## Copy Style Selection
+
+Choose your baseline voice before writing:
+
+### B2B Enterprise
+- **Tone:** Confident, evidence-based, ROI-focused
+- **Proof:** Case studies, metrics, industry recognition
+- **CTA:** Consultative ("Schedule a demo", "Talk to an expert")
+- **Reference:** See [b2b-b2c-methodology.md](references/b2b-b2c-methodology.md)
+
+### B2C Consumer
+- **Tone:** Friendly, benefit-driven, emotionally resonant
+- **Proof:** Reviews, social proof, before/after
+- **CTA:** Action-oriented ("Get started", "Try free")
+- **Reference:** See [b2b-b2c-methodology.md](references/b2b-b2c-methodology.md)
+
+### SaaS Product
+- **Tone:** Clear, value-first, low-friction
+- **Proof:** Free trial, feature tours, comparison tables
+- **CTA:** Low commitment ("Start free trial", "See how it works")
+
+### Service Business
+- **Tone:** Trustworthy, relationship-focused, expertise-demonstrating
+- **Proof:** Testimonials, credentials, process transparency
+- **CTA:** Engagement-focused ("Get a quote", "Book a call")
+
+---
+
 ## Quick Start Checklist
 
 Before publishing any web copy, verify:
@@ -179,3 +260,21 @@ Choose based on your task:
 - No dark patterns
 - Inclusive language
 - Provable claims only
+
+---
+
+## External Resources
+
+- **Google GEO Guidance:** [Search Central on AI Overviews](https://developers.google.com/search/docs/appearance/ai-overviews) — Official guidance on AI-generated search results
+- **Schema.org:** [Schema Types Reference](https://schema.org/docs/full.html) — Authoritative schema type definitions
+- **W3C WCAG:** [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessibility standards
+- **Nielsen Norman Group:** [UX Research](https://www.nngroup.com/articles/) — Evidence-based usability guidance
+- **Hemingway App:** [Readability Checker](https://hemingwayapp.com/) — Grade-level analysis
+
+---
+
+## Your Mission
+
+You are writing for the future of search. Every answer engine that emerges tomorrow will evaluate content created today. Your copy is not just marketing; it is the source material from which AI constructs the world's knowledge.
+
+Write as if your content will be cited a million times. Because it might be.

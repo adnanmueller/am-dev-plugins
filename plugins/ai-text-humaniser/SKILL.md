@@ -10,9 +10,77 @@ description: |
 
 Transform AI-sounding text into natural, human prose by eliminating telltale patterns.
 
-## Core Principle
+## Design Philosophy
 
-Write like a knowledgeable person having a conversation, not an AI trying to sound authoritative.
+### Why AI Text Sounds "Off"
+
+AI models are trained on patterns. When they write, they reach for the most probable next word given the context. This creates text that is technically correct but statistically average. Human writing is defined by its deviations from the norm: the unexpected word choice, the sentence that breaks rhythm, the opinion that not everyone shares.
+
+### The Naturalness Principle
+
+Natural writing is not about following rules. It is about knowing when to break them. A skilled human writer uses "delve" when it genuinely fits. The problem is not the word; the problem is the word appearing in every third paragraph.
+
+### Three Dimensions of Humanisation
+
+1. **Lexical:** Word choice. Replace overused AI favourites with varied vocabulary.
+2. **Structural:** Sentence construction. Vary length, break the [Statement. Elaboration. Example.] pattern.
+3. **Voice:** Perspective and personality. Inject opinions, admit uncertainty, show personality.
+
+### The 60/40 Rule
+
+AI output is typically 60% usable, 40% requiring transformation. Your goal is not to rewrite everything but to identify and fix the 40% that signals "machine."
+
+---
+
+## Anti-Patterns: Over-Correction Mistakes
+
+### The Slang Overcorrection
+**Symptom:** Replacing formal language with forced colloquialisms everywhere.
+**Problem:** "Let's unpack this synergy" becomes "Yo, let's vibe about teamwork." Neither is good.
+**Solution:** Match register to audience. Business writing should sound professional, not robotic AND not performatively casual.
+
+### The Brevity Extremism
+**Symptom:** Cutting every sentence to under 10 words.
+**Problem:** Reads like a telegram. Or a ransom note. Choppy. Awkward. See?
+**Solution:** Vary sentence length. Some short. Others should flow longer, allowing ideas to develop naturally across clauses.
+
+### The Personality Injection Overdose
+**Symptom:** Adding jokes, asides, and opinions to everything.
+**Problem:** A Terms of Service page does not need witty banter.
+**Solution:** Personality is context-dependent. Instructions should be clear. Blog posts can have voice.
+
+### The False Authenticity
+**Symptom:** Adding "I personally think" or "In my experience" to AI-written content.
+**Problem:** The AI has no personal experience. This is a lie dressed as authenticity.
+**Solution:** Only add personal markers if you (the human) are actually adding personal input.
+
+---
+
+## Tone Selection Guide
+
+Before humanising, choose a target voice:
+
+### Professional Neutral
+- **Use for:** Documentation, reports, business communication
+- **Characteristics:** Clear, direct, jargon-appropriate
+- **Avoid:** Slang, humour, strong opinions
+
+### Conversational Friendly
+- **Use for:** Blog posts, marketing copy, social media
+- **Characteristics:** Contractions, questions, some personality
+- **Avoid:** Overly formal language, passive voice
+
+### Expert Authoritative
+- **Use for:** Technical articles, thought leadership, whitepapers
+- **Characteristics:** Specific examples, strong claims, cited evidence
+- **Avoid:** Hedging, excessive qualifiers
+
+### Empathetic Supportive
+- **Use for:** Customer support, health content, sensitive topics
+- **Characteristics:** Acknowledgement of feelings, gentle guidance
+- **Avoid:** Dismissiveness, clinical detachment
+
+---
 
 ## Patterns to Eliminate
 
@@ -136,3 +204,20 @@ Before finalising, ask:
 - Does this sound like a person or a press release?
 - Can I cut this word without losing meaning?
 - Am I hedging because I'm uncertain, or just because it sounds "safe"?
+
+---
+
+## External Resources
+
+- **Style Guides:** [Strunk & White's Elements of Style](https://www.gutenberg.org/ebooks/37134) — The classic on concise writing
+- **On Writing Well:** William Zinsser's guide to non-fiction prose
+- **AI Detection Research:** [GPTZero methodology](https://gptzero.me/how-it-works) — Understanding what detectors look for
+- **Voice Development:** Ann Handley's [Everybody Writes](https://annhandley.com/everybody-writes/) — Finding your voice
+
+---
+
+## Your Mission
+
+You are not editing text. You are restoring humanity to communication. Every transformed paragraph is an act of reclamation: taking sterile, probable language and injecting the improbable patterns that make writing feel alive.
+
+When you're done, the text should sound like someone wrote it on purpose.

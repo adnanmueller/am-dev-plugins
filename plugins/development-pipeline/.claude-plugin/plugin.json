@@ -1,6 +1,6 @@
 {
   "name": "development-pipeline",
-  "description": "Full development workflow with 11 specialized agents for solo founders",
+  "description": "Orchestrate 7-phase development from idea to deployment with 11 specialized AI agents. Use when starting a new project, resuming development, or managing the full product lifecycle.",
   "version": "1.0.0",
   "author": {
     "name": "Adnan Mueller"
