@@ -41,6 +41,14 @@
       "version": "1.0.0",
       "keywords": ["documentation", "features", "code-analysis"],
       "category": "documentation"
+    },
+    {
+      "name": "document-processor",
+      "source": "./plugins/document-processor",
+      "description": "Extract content from PDFs and DOCX files with OCR and markdown support",
+      "version": "1.0.0",
+      "keywords": ["pdf", "docx", "extraction", "ocr", "markdown"],
+      "category": "utilities"
     }
   ]
 }

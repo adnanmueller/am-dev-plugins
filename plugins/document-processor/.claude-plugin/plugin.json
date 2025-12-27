@@ -1,0 +1,11 @@
+{
+  "name": "document-processor",
+  "description": "Extract and process content from PDFs and DOCX files. Handles large files, OCR for scanned documents, and markdown conversion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["pdf", "docx", "extraction", "ocr", "markdown", "documents"],
+  "skills": ["./SKILL.md"]
+}
