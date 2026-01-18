@@ -49,6 +49,14 @@
       "version": "1.0.0",
       "keywords": ["pdf", "docx", "extraction", "ocr", "markdown"],
       "category": "utilities"
+    },
+    {
+      "name": "beeper-ai",
+      "source": "./plugins/beeper-ai",
+      "description": "AI-powered chat assistant for Beeper Desktop - search, summarize, and smart replies",
+      "version": "1.0.0",
+      "keywords": ["beeper", "chat", "messaging", "ai"],
+      "category": "utilities"
     }
   ]
 }

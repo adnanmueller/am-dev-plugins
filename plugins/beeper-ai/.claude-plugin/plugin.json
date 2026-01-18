@@ -1,0 +1,13 @@
+{
+  "name": "beeper-ai",
+  "description": "AI-powered chat assistant for Beeper Desktop - search messages, summarize conversations, and generate smart replies matching your personal style",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adnan Mueller"
+  },
+  "license": "MIT",
+  "keywords": ["beeper", "chat", "messaging", "ai", "fabric", "search", "summarize"],
+  "commands": "./commands/",
+  "skills": ["./SKILL.md"],
+  "agents": ["./agents/beeper-assistant/SKILL.md"]
+}
